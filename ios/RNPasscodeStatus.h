@@ -7,9 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <RCTBridgeModule.h>
+#import <React/RCTBridgeModule.h>
 #import "UIDevice+PasscodeStatus.h"
-#import "RCTUtils.h"
+#import <React/RCTUtils.h>
 
 @interface RNPasscodeStatus : NSObject <RCTBridgeModule>
 
